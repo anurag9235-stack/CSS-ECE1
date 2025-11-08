@@ -1,0 +1,18 @@
+
+.jk{
+    color: rgb(28, 210, 40);
+    background-color: rgb(60, 21, 215);
+    height: 100px;
+    width: 100px;
+    padding: 5px;
+    border: 5px solid red;
+    text-align: center;
+    align-content: center;
+     display: inline-block;
+  
+
+
+}
+body{
+    align-content: center;
+}
