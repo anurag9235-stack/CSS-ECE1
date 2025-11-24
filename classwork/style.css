@@ -1,0 +1,15 @@
+.p{
+    border: solid 10px black;
+    background-color:white;
+    text-align: left;
+    font-size: 31px;
+    padding: 20px;
+
+
+}
+h1{
+    background-color: aqua;
+}
+p{
+    background-color: aquamarine;
+}

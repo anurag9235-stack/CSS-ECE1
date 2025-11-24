@@ -1,0 +1,15 @@
+.at{
+    border: 5px solid black;
+    height: auto;
+    width: 700px;
+    padding: 5px;
+    background-color: palevioletred;
+
+}
+p{
+    padding-left: 200px;
+}
+img{
+    height: 300px;
+    width: 210px;
+}  
